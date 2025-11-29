@@ -6,7 +6,7 @@ A portable Windows application that keeps your Claude CLI session active by send
 
 ## Download
 
-**Latest Version:** ClaudePingBot-Pro.exe (~28MB)
+**[Download ClaudePingBot-Pro.exe](https://github.com/ByteStackr/Claude-PingBot/releases/download/ClaudePingBot/ClaudePingBot-Pro.exe)** (~28MB)
 
 ## Quick Start
 
